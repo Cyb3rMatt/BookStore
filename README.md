@@ -1,6 +1,10 @@
-# BookStore
+
+# Book List
+
 
 This Python script generates a book list to organize and keep track of your reading. Whether you're an avid reader or just starting, this tool helps you maintain a structured list of books you've read, want to read, or are currently reading.
+
+
 
 ## Features
 
@@ -17,17 +21,17 @@ Simple and Intuitive: The interface is user-friendly and easy to navigate.
 Clone the project
 
 ```bash
-  git clone https://github.com/MattLovesToCode/BookStore
+git clone https://github.com/MattLovesToCode/BookStore
 ```
 
 Go to the project directory
 
 ```bash
-  cd main.py
+cd main.py
 ```
 
 Run 
 
 ```bash
-  python3 main.py
+python3 main.py
 ```
