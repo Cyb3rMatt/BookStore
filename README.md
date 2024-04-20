@@ -27,7 +27,7 @@ git clone https://github.com/MattLovesToCode/BookStore
 Go to the project directory
 
 ```bash
-cd main.py
+cd BookStore
 ```
 
 Run 
