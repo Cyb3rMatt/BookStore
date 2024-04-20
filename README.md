@@ -16,7 +16,7 @@ Search Functionality: Quickly find books in your list by title, author, or genre
 
 Save and Load: Save your book list to a file for future reference and load it back when needed.
 Simple and Intuitive: The interface is user-friendly and easy to navigate.
-## Run Locally
+## Installation
 
 Clone the project
 
